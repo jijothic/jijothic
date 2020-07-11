@@ -1,1 +1,2 @@
-# jijothic
+# Hi, I'm  jijothic 👋.
+
