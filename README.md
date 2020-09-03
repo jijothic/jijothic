@@ -6,4 +6,4 @@ I'm a Front-End/UI Engineer && UX Designer. I like to make things with code. I'm
 
 ## Find me around the web 🌎:
 * [Twitter](https://twitter.com/jijothic)
-* [Instagram](https://www.instagram.com)
+* [Instagram](https://www.instagram.com/jijothic)
